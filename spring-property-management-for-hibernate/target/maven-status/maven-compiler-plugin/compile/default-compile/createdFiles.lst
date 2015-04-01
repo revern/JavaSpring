@@ -1,0 +1,8 @@
+com\kzn\itis\db\config\DatabaseConfiguration.class
+com\kzn\itis\SpringExampleProperties.class
+com\kzn\itis\db\model\Order.class
+com\kzn\itis\db\model\User.class
+com\kzn\itis\db\repositories\impl\UserRepositoryImpl.class
+com\kzn\itis\db\repositories\UserRepository.class
+com\kzn\itis\db\repositories\impl\OrderRepositoryImpl.class
+com\kzn\itis\db\repositories\OrderRepository.class
